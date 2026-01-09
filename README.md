@@ -23,6 +23,7 @@ Inside of your Astro project, you'll see the following folders and files:
 │   │   └── pages
 │   │       └── index.astro
 │   └── server
+│       └── index.ts
 └── package.json
 ```
 
